@@ -14,8 +14,4 @@
 
 - Todos nuestros comandos están pensados respetando los **Términos de servicio de** [Discord](https://discord.com) 
 
-Todos los derechos reservados a los desarrolladores de Engine 2022©️
-
-[]: # Path: Politicas Privacidad.md
-[]: # Language: markdown
-[]: # Path: Politicas Privacidad.md
+Todos los derechos reservados a Engine Devs ©️
