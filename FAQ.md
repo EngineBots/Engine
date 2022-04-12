@@ -4,7 +4,7 @@
 
 ## ¿En donde hostean su bot?
 
-Gracias a **[Boxmine](https://boxmineworld.com)** es que este proyecto está en pie 💖
+Gracias a **[Boxmine](https://boxmineworld.com)** es que está proyecto está en pie 💖
 
 ## ¿Donde puedo ver los comandos que tiene Engine?
 
