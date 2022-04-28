@@ -4,7 +4,7 @@
 
 ## ¿En donde hostean su bot?
 
-Nuestro host con el que podemos seguir en pie es **[BoxMine](https://boxmineworld.com)**
+Nuestro host con el que podemos seguir en pie es **[BoxMine](https://boxmineworld.com)**, más información en su página web
 
 ## ¿Donde puedo ver los comandos que tiene Engine?
 
