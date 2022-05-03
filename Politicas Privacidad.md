@@ -12,4 +12,6 @@
 
 - Todos nuestros comandos están pensados respetando los **Términos de servicio de** [Discord](https://discord.com) 
 
+- Los desarrolladores tienen un comando especial, que les permite generar un enlace de invitación a cualquier servidor que le indique (Obviamente el servidor debe estár almacenado en su cache), este comando sirve en caso de que se detecte algún error, y poder ver más detallado cómo sucede esto
+
 Todos los derechos reservados a Engine Devs ©️
